@@ -1,3 +1,4 @@
+```python
 import os
 
 def display_menu():
